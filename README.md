@@ -1,0 +1,4 @@
+- 👋 Hi, I’m lavdimzymeri
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning ReactJs
+- 📫 My email : lzymeri4@gmail.com
